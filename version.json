@@ -1,7 +1,6 @@
 {
   "version": "3.6.1",
   "build": 3601,
-  "changelog": "Kararlılık iyileştirmeleri, Tidal paket yöneticisi güncellemeleri ve hata düzeltmeleri.",
-  "download_url": "https://github.com/yavuzyosumaz6-prog/AquaRevive-Updates/releases/download/v3.6.1/aquarevive-update-3.6.1.tar.gz",
-  "critical": false
+  "changelog": "İlk test güncellemesi",
+  "download_url": "bos"
 }
